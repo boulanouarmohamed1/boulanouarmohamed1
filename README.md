@@ -1,47 +1,64 @@
-# 👋 Hello, I'm Mohamed!  
+# Hello, I'm Mohamed Boulanouar!  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&width=435&lines=Computer+Science+Student;AI+%26+Agentic+AI+Explorer;Full-Stack+Developer" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me  
-Hey there! I'm **Mohamed**, a **computer science student** passionate about **AI and software engineering**.  
-Currently studying at **ESI Algiers**, I love exploring **full-stack development, and hackathons**.  
+## About Me  
+ I'm **Mohamed**, a **3rd-year Computer Science student** at **ESI Algiers**. I am deeply passionate about the intersection of **Software Engineering, AI, and Agentic AI**—building autonomous systems that don't just process data, but take intelligent action.
 
-I thrive in collaborative environments, always eager to **learn, build, and innovate**.  
-
----
-
-## 🔥 What I Do  
-
-- 💻 **Software Engineer** – Specializing in **web app development** and **Node.js backend**.  
-- 🎥 **Content & Community Builder** – Interested in **filming podcasts, managing social media**, and organizing tech events.  
+I thrive in collaborative environments and enjoy building scalable, impactful applications from the ground up.
 
 ---
 
-## 📚 Tech Stack  
-- **Languages**: JavaScript, C   
-- **Frontend**: React, HTML, CSS, Tailwind  
-- **Backend**: Node.js, Express.js  
-- **Databases**: MongoDB 
-- **Tools**: Git, Postman, Figma, Canva
-- **AI & Data**: TensorFlow, Pandas (learning)   
+##  Tech Stack  
 
-## 🎯 Goals 
-- Master **full-stack development** with a focus on **scalability & performance**.  
-- Dive deeper into **AI & data science**.  
-- Gain real-world experience by **working with a team on impactful projects**.  
-- Contribute to **open-source projects** and participate in **datathons/hackathons**.  
+### 🤖 AI & Agentic Systems
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
----
+###  Full-Stack Development
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📫 Connect with Me!  
-- 📧 **Email**: nm_boulanouar@esi.dz
-- 💼 **LinkedIn**: [my-profile](https://www.linkedin.com/in/boulanouar-mohamedlamine-1996bb315/)
-
-
-## 📊 GitHub Stats  
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+###  DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-⚡ *"The best way to predict the future is to create it."* 🚀  
+ Goals  
+-  Master **Agentic AI** workflows (LLM routing, memory, and self-correction systems).
+-  Build production-ready, highly scalable applications using **Next.js** and **Docker**.
+-  Contribute meaningfully to the open-source community.
+
+---
+
+##  Connect with Me!  
+-  **Email**: [nm_boulanouar@esi.dz](mailto:nm_boulanouar@esi.dz)
+-  **LinkedIn**: [boulanouar-mohamedlamine](https://www.linkedin.com/in/boulanouar-mohamedlamine-1996bb315/)
+
+---
+
+##  GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boulanouarmohamed1&show_icons=true&theme=radical&rank_icon=github" alt="Mohamed's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boulanouarmohamed1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>"The best way to predict the future is to build it, agent by agent."</i> 🚀
+</p>
