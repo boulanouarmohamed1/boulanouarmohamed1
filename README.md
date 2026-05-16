@@ -64,5 +64,5 @@ I thrive in collaborative environments and enjoy building scalable, impactful ap
 ---
 
 <p align="center">
-   <i>"The best way to predict the future is to build it, agent by agent."</i> 
+   <i>"The best way to predict the future is to build it"</i> 
 </p>
