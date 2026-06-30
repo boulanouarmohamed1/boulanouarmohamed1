@@ -1,68 +1,150 @@
-# Hello, I'm Mohamed Boulanouar!  
+
+
+<h1 align="center">Hi, I'm Mohamed Boulanouar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&width=435&lines=Computer+Science+Student;AI+%26+Agentic+AI+Explorer;Full-Stack+Developer" alt="Typing SVG" />
+  <b>Computer Science student at ESI Algiers</b>
+  <br>
+  Passionate about AI agents, agentic systems, backend development and scalable applications.
+</p>
+
+<p align="center">
+  <a href="https://github.com/boulanouarmohamed1">
+    <img src="https://img.shields.io/badge/GitHub-boulanouarmohamed1-2496ED?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  </a>
+  <a href="https://www.linkedin.com/in/boulanouar-mohamedlamine-1996bb315/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Boulanouar-00BFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+  </a>
+  <a href="mailto:nm_boulanouar@esi.dz">
+    <img src="https://img.shields.io/badge/Email-nm_boulanouar%40esi.dz-6B7280?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+  </a>
 </p>
 
 ---
 
-## About Me  
- I'm **Mohamed**, a **3rd-year Computer Science student** at **ESI Algiers**. I am deeply passionate about the intersection of **Software Engineering, AI, and Agentic AI**—building autonomous systems that don't just process data, but take intelligent action.
+## About Me
 
-I thrive in collaborative environments and enjoy building scalable, impactful applications from the ground up.
+```yaml
+Name: Mohamed Boulanouar
 
----
+Role:
+  4th year Computer Science Student at ESI Algiers
 
-##  Tech Stack  
+Focus:
+  - Artificial Intelligence & Agentic Systems
+  - Full-Stack Development
+  - Software Engineering
+  - Scalable Applications
 
-###  AI & Agentic Systems
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+Currently Learning:
+  - LangGraph
+  - Agentic AI Workflows
+  - Next.js
+  - TensorFlow & Deep Learning
+  - Docker & DevOps
+  - Production-Ready Systems
 
-###  AI Tools & Infrastructure
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+Interests:
+  - Autonomous AI Agents
+  - System Architecture
+  - Problem Solving
+  - Open Source Contribution
 
-###  Full-Stack Development
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-###  DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
- Goals  
--  Master **Agentic AI** workflows (LLM routing, memory, and self-correction systems).
--  Build production-ready, highly scalable applications using **Next.js** and **Docker**.
--  Contribute meaningfully to the open-source community.
+Goal:
+  Build intelligent, autonomous systems that take action and create real-world impact.
+```
 
 ---
 
-##  Connect with Me!  
--  **Email**: [nm_boulanouar@esi.dz](mailto:nm_boulanouar@esi.dz)
--  **LinkedIn**: [boulanouar-mohamedlamine](https://www.linkedin.com/in/boulanouar-mohamedlamine-1996bb315/)
+## Tech Toolbox
 
----
+### AI & Agentic Systems
 
-##  GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=boulanouarmohamed1&show_icons=true&theme=radical&rank_icon=github" alt="Mohamed's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=boulanouarmohamed1&layout=compact&theme=radical" alt="Top Languages" />
+<p>
+  <img src="https://img.shields.io/badge/Python-2496ED?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/LangGraph-1E90FF?style=for-the-badge&logo=langchain&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logo=langchain&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/TensorFlow-6B7280?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF"/>
 </p>
 
+### AI Tools & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Ollama-2496ED?style=for-the-badge&logo=ollama&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-1E90FF?style=for-the-badge&logo=huggingface&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Pandas-00BFFF?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
+</p>
+
+### Full-Stack Development
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-2496ED?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Node.js-00BFFF?style=for-the-badge&logo=node.js&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Express.js-6B7280?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-2496ED?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E90FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Postman-6B7280?style=for-the-badge&logo=postman&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Figma-2496ED?style=for-the-badge&logo=figma&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/VS%20Code-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
+</p>
+
 ---
 
+## GitHub Stats
+
 <p align="center">
-   <i>"The best way to predict the future is to build it"</i> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boulanouarmohamed1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=2496ED" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boulanouarmohamed1&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=boulanouarmohamed1&hide_border=true&background=0D1117&ring=00BFFF&fire=2496ED&currStreakLabel=1E90FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" />
+</p>
+
+---
+
+## Current Goals
+
+- Master **Agentic AI** workflows (LLM routing, memory systems, self-correction).
+- Build production-ready, highly scalable applications using **Next.js** and **Docker**.
+- Improve backend engineering and system architecture skills.
+- Write cleaner, maintainable, and well-documented code.
+- Contribute meaningfully to the open-source community.
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/boulanouarmohamed1">
+    <img src="https://img.shields.io/badge/GitHub-boulanouarmohamed1-2496ED?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  </a>
+  <a href="https://www.linkedin.com/in/boulanouar-mohamedlamine-1996bb315/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Boulanouar-00BFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+  </a>
+  <a href="mailto:nm_boulanouar@esi.dz">
+    <img src="https://img.shields.io/badge/Email-nm_boulanouar%40esi.dz-6B7280?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to build it"</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2496ED,50:1E90FF,100:00BFFF" />
 </p>
